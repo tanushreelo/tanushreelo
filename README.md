@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Tanushree Londhe 
 
-<!--
-**tanushreelo/tanushreelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Business Analytics Graduate | Digital Systems, Process Improvement & Data Solutions
 
-Here are some ideas to get you started:
+I am a Business Analytics graduate with an engineering background and a passion for solving operational problems through technology, analytics, and process improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy understanding how work gets done, identifying inefficiencies, and building practical digital solutions that improve visibility, collaboration, and decision-making.
+
+Currently developing skills in:
+
+- SQL
+- Power BI
+- SharePoint
+- Microsoft Lists
+- Power Automate
+- Power Apps
+- Data Analytics
+- Business Process Improvement
+
+## Featured Projects
+
+### Digital Project Operations Hub
+Microsoft 365 solution for document approvals, project risk tracking, and ICT support requests.
+
+**Tools:** SharePoint, Microsoft Lists, Power Automate, Power BI
+
+### Infrastructure Portfolio Controls Dashboard
+Portfolio reporting solution providing visibility over project costs, schedules, risks, and performance.
+
+**Tools:** SQL, Power BI, Power Query
+
+### ICT Asset, Licence & Access Governance Tracker
+Governance solution for ICT assets, software licences, onboarding, and access reviews.
+
+**Tools:** SharePoint Lists, Power Apps, Power Automate, Power BI
