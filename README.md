@@ -2,9 +2,9 @@
 
 ## Business Analytics Graduate | Digital Systems, Process Improvement & Data Solutions
 
-I am a Business Analytics graduate with an engineering background and a passion for solving operational problems through technology, analytics, and process improvement.
+I am a Business Analytics graduate with an engineering background and a passion for solving operational problems through technology and process improvement.
 
-I enjoy understanding how work gets done, identifying inefficiencies, and building practical digital solutions that improve visibility, collaboration, and decision-making.
+I enjoy understanding how work gets done, identifying inefficiencies, and building practical solutions that improve visibility, collaboration and decision-making.
 
 Currently developing skills in:
 
